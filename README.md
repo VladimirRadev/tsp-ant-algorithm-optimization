@@ -1,4 +1,4 @@
-# Travelling sales man (TSP) problem solved using ant colony optimization (ACO) algorithm
+# Travelling salesman problem (TSP) solved using ant colony optimization (ACO) algorithm
 
 ## "Moves in complex environment" project (Mechatronics & Robotics master programme)
 
