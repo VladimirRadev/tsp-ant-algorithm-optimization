@@ -22,7 +22,7 @@ export class Chart{
         // console.log(stepy);
         function drawLine(fromx, fromy, tox, toy, green=0){
             context.lineWidth = 1;
-            if (green) context.strokeStyle = 'rgba(0,112,0,1)';
+            if (green) context.strokeStyle = 'rgb(8, 99, 57)';
             else context.strokeStyle = 'rgba(0, 0, 0, 1)';
             context.beginPath();
             context.moveTo(fromx, fromy);

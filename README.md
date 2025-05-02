@@ -3,10 +3,4 @@
 ## "Moves in complex environment" project (Mechatronics & Robotics master programme)
 
 ### You can access live demo at : 
-```
-<link>
-```
-### Visual demos of the project at : 
-```
-<link>
-```
+[Visit demo](https://vladimirradev.github.io/tsp-ant-algorithm-optimization/)
