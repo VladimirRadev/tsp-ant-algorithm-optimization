@@ -1,4 +1,4 @@
-import {Network} from './classes/network.js';
+import {Network} from '../controllers/network.js';
 
 window.onresize = () =>{
     // resizeHandler();
